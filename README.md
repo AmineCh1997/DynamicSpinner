@@ -1,6 +1,6 @@
 # DynamicSpinner
 
-Spinner filled dynamically if you provide it your GET API ! 
+Spinner filled dynamically if you provide it with your GET_API ! 
 
 # How to use ?
 
