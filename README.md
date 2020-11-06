@@ -21,7 +21,7 @@ Add the dependency :
 
 Code : 
 
-              <com.sra.bkfood.dynamicspinnerlibrary.DynamicSpinner
+              <com.sra.dynamicspinnerlibrary.DynamicSpinner
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
           android:id="@+id/dynamicspinner" />
